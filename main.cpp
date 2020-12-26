@@ -7,10 +7,10 @@
 //
 
 #include <iostream>
-#include "BJ10950.cpp"
+#include "BJ10952.cpp"
 int main(int argc, const char * argv[]) {
     
-    BJ10950 algorithm_solver;
+    BJ10952 algorithm_solver;
     algorithm_solver.run();
     return 0;
 }
